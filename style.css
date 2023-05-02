@@ -1,5 +1,9 @@
-h1, h2 {
+h1 {
   font-family: Lato; font-size: 30pt;
+}
+
+h2 {
+  font-family: Lato; font-size: 15pt;
 }
 
 .negrita{
